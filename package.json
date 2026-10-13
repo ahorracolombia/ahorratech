@@ -1,0 +1,19 @@
+{
+  "name": "ahorratech",
+  "version": "1.0.0",
+  "description": "Comparador de electrónicos",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static HTML site - no build needed'"
+  },
+  "keywords": [
+    "electronics",
+    "comparison",
+    "shopping"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
